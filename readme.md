@@ -25,5 +25,5 @@
 
 <a name="git"></a>
 ## 1. Git
-![Git](/images/branching.png)
+![Git](readme/images/branching.png)
 <a name="some-git-rules"></a>
